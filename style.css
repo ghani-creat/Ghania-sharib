@@ -1,32 +1,91 @@
- .tca1 {
-            background-color: blue;
-            color:white;
-            width: 1000px;
-            height: 200px;
-            padding :200px;
-        
+
+#cart-btn {
+    background-color:rgb(204, 38, 38);
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid rgb(194, 46, 46);
+
 }
- nav.b2{        
-           background-color: blue;
-           color:white; 
-           width: 1000px;
-           height: 200px;
-           padding :100px;
-           text-align:center
-         
+
+#cart-btn:hover {
+                background-color:#ed4d50;
+
+
+}
+
+
+#play-btn {
+            background: #fdd835;
+            color:#2a61fb;
+            width: 80px;
+            height: 40px;
+            border: 2px solid blue;
+}
+
+#play-btn:hover{
+                 color: #fdd835;
+                 background-color:#2a61fb;
+
+}
+
+#login {
+          background-image: linear-gradient(to right, #159957 , #155799);
+          color: white;
+          width: 100px;
+          height: 30px;
+          border: 1px solid white;
+          border-radius: 20px;
+
+}
+
+#sign-up {
+        background-color: white;
+        color: #6749ea;
+        width: 100px;
+        height: 30px;
+        border: 2px solid #6749ea;
+        border-radius: 05px;
+
+}
+
+#sign-up:hover {
+                   color: white;
+                   background-color: #6749ea;
         
 }
 
-.but2 {
-         background-color: blue;
-         color:white;
-         
-}
-.tcb2{
-         background-color: rgba(15, 15, 99, 0.808);
-         color:white;
-         width: 500px;
-         padding : 100px;
+#subcribe{
+           background-image: linear-gradient(to top, #f5a332,#fac733);
+           color: white;
+           width: 100px;
+           height: 30px;
+           border: 1px solid  #f5a332;
 
 }
+
+#subcribe:hover{
+                  background-color:#f5a332 ;
+                  background-image: none;
+
+}
+
+
+
+.fa-stack-1x, .fa-stack-2x {
+                    background-color: white;
+                    color: #38a1f3;
+            
+                     
+}
+.fa-stack-1x, .fa-stack-2x :hover {
+                           color: white;
+                           background-color: #38a1f3;
+
+}
+
+
+
+
+
 
